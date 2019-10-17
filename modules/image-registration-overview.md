@@ -12,8 +12,24 @@ Modality examples:
 - Second harmonic generation (SHG) microscopy
 - Coherent anti-stokes raman spectroscopy (CARS)
 - Fluorescence microscopy
+- Segmentations
 
-TODO: Put pictures
+### Multi-modal image examples
+
+Specimen: Platynereis larvae 6pdf
+
+##### Electron microscopy
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/2157566/66997666-2de10c80-f0d3-11e9-8ca4-1c7741d8a773.png">
+
+##### X-ray tomography
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/2157566/66997827-7bf61000-f0d3-11e9-8a66-e3d9eba222eb.png">
+
+##### Fluorescence microscopy
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/2157566/66997968-b19af900-f0d3-11e9-9f7e-c9a968c0eda5.png">
+
+##### Instance segmentations
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/2157566/66998030-cd9e9a80-f0d3-11e9-9d56-fc0cbca36651.png">
+
 
 ## Registration techniques overview
 
