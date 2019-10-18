@@ -5,14 +5,19 @@
 - http://elastix.isi.uu.nl/download.php
 - There also is a Fiji wrapper that makes elastix easier to use: https://imagej.net/Elastix 
 
+## Manual
+
+http://elastix.isi.uu.nl/download/elastix_manual_v4.8.pdf
+
 ## Registration quality metrics
 
-Various intensity based metrics; see the manual: http://elastix.isi.uu.nl/download/elastix_manual_v4.8.pdf
+Various intensity based metrics; see the manual.
 
 ## Transformation types
 
-Various transformation types; see the manual: http://elastix.isi.uu.nl/download/elastix_manual_v4.8.pdf
+Various transformation types; see the manual.
 
+<img width="762" alt="image" src="https://user-images.githubusercontent.com/2157566/67085265-ce503300-f19e-11e9-82e2-ac77591728d6.png">
 
 ## Practical 
 
