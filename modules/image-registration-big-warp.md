@@ -17,13 +17,15 @@ See screenshot below
 ## Practical 
 
 - Open Fiji
-- Open '../data/registration/sbem.zip'
-- Open '../data/registration/xray.zip'
+- Open '../data/registration/sbem.ome.tif'
+- Open '../data/registration/xray.ome.tif'
 - Start Big Warp
 	- moving image: xray
 	- target image: sbem 
-- Explore Big Warp (read the help!)
-- Save your landmarks to a file
-- Print the corresponding affine and similarity transformations and save them to a file
-- Save the transformed moving image to a file
+	- Explore Big Warp (read the help!)
+	- Save your landmarks to a file
+	- Print the corresponding affine and similarity transformations and save them to a file
+	- Save the transformed moving image to a file
+- Start Big Warp Apply
+	- use the saved landmarks to also transform: '../data/registration/xray-segmented-neuropil.ome.tif'
 
