@@ -24,4 +24,11 @@ Various transformation types; see the manual.
 We will use the Fiji wrapper for elastix.
 
 - Open Fiji
+- Run Elastix
+- Fixed image: sbem.tif
+- Moving image: xray-manually-similarity-aligned.tif
+- Try whether you can improve the alignment using Similarity, Affine, or BSpline transformations
+- Tip: Use Fiji's Synchronize Windows functionality to compare images in 3D
+
+
 
