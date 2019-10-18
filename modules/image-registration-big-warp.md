@@ -18,8 +18,12 @@ See screenshot below
 
 - Open Fiji
 - Open '../data/registration/sbem.zip'
-- Open '../data/registration/xray-horizontally-aligned.zip'
+- Open '../data/registration/xray.zip'
 - Start Big Warp
-- Select the sbem as the fixed and the xray as the moving image
+	- moving image: xray
+	- target image: sbem 
 - Explore Big Warp (read the help!)
- 
+- Save your landmarks to a file
+- Print the corresponding affine and similarity transformations and save them to a file
+- Save the transformed moving image to a file
+
