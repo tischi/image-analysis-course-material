@@ -18,18 +18,17 @@ Modality examples:
 
 Specimen: Platynereis larvae 6pdf
 
-##### Electron microscopy
+##### 3D electron microscopy
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/2157566/66997666-2de10c80-f0d3-11e9-8ca4-1c7741d8a773.png">
 
-##### X-ray tomography
+##### 3D x-ray tomography
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/2157566/66997827-7bf61000-f0d3-11e9-8a66-e3d9eba222eb.png">
 
-##### Fluorescence microscopy
+##### 3D fluorescence microscopy
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/2157566/66997968-b19af900-f0d3-11e9-9f7e-c9a968c0eda5.png">
 
-##### Instance segmentations
+##### 3D instance segmentations
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/2157566/66998030-cd9e9a80-f0d3-11e9-9d56-fc0cbca36651.png">
-
 
 ## Registration techniques overview
 
