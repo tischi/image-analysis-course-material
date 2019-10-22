@@ -37,9 +37,7 @@ There are many ways to register two images. Typically, one tries to find a trans
 Quality metric examples:
 - Manual landmark pairs
 - Intensity mean square error
-- Least mutual information error
-
-TODO: Read about mutual information
+- Mutual information error
 
 There are also different types of transformation, allowing for different degrees of deformation of the moving image. 
 For example:
